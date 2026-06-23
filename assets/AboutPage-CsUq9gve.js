@@ -1,0 +1,1 @@
+import{n as e}from"./useInView-iY4lSuYR.js";import{t}from"./About-D24ABQEK.js";import{t as n}from"./Choose-Bj20v5u_.js";import{t as r}from"./FloatingButtons-CJBoZNB0.js";import{t as i}from"./Goals-DysLggay.js";var a=e(),o=()=>(0,a.jsxs)(a.Fragment,{children:[(0,a.jsx)(n,{}),(0,a.jsx)(t,{}),(0,a.jsx)(r,{}),(0,a.jsx)(i,{})]});export{o as default};
